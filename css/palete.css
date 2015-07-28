@@ -1,0 +1,35 @@
+body
+{
+	background-color: #00009b;
+}
+
+.navbar-default
+{
+	background-color: #00009b;
+	border-color: #fff;
+}
+
+.navbar-default .navbar-brand
+{
+	color: #fff;
+	font-size: 1.5em;
+
+	transition: 0.3s;
+}
+
+.navbar-default .navbar-brand:focus,
+.navbar-default .navbar-brand:hover
+{
+	color: #fff;
+	text-shadow: 0em 0em 0.5em #fff;
+}
+
+a
+{
+	color: #fff;
+}
+
+#page-wrapper a
+{
+	color: #00009b;
+}
